@@ -22,7 +22,7 @@ It compares multiple regression models and provides a GUI interface
 - Feature scaling with MinMax normalization
 
 
-## 🖥️ GUI Preview
+##  GUI Preview
 The Tkinter interface allows users to input:
 - Gender
 - Age
